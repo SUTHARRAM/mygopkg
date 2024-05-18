@@ -1,3 +1,3 @@
-module github.com/SUTHARRAM/mathutil
+module github.com/SUTHARRAM/mygopkg
 
 go 1.20
